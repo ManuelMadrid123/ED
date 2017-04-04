@@ -16,6 +16,9 @@ public class ED {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Persona p = new Persona("626350062");
+        System.out.println("Número de teléfono: "+p.getNumeroDeTelefono());
     }
     
 }
