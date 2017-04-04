@@ -19,6 +19,9 @@ public class ED {
         
         Persona p = new Persona("626350062");
         System.out.println("Número de teléfono: "+p.getNumeroDeTelefono());
+        
+        Persona p2 = new Persona("626350063");
+        System.out.println("Número de teléfono: "+p2.getNumeroDeTelefono());
     }
     
 }
