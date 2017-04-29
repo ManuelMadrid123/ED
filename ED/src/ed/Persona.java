@@ -24,7 +24,9 @@ public class Persona {
         this.numeroDeTelefono=numeroDeTelefono;
     }
     
-    
+    public int Manolico(int a){
+        return a*a;
+    }
     
 }
 
