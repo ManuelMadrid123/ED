@@ -25,7 +25,7 @@ public class Persona {
     }
     
     public int Manolico(int a){
-        return a*a;
+        return a+a;
     }
     
 }
